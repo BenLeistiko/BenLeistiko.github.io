@@ -22,7 +22,7 @@ title: Ben Leistiko
 email: ben.leistiko@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ben Leistiko portfolio and resume website.  Cal Poly SLO, Mehcanical Engineering, SAE Baja Competition, Machinist, CNC Programmer.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://BenLeistiko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
