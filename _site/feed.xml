@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-03T18:55:58-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/06/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-06-03T17:52:50-07:00</published><updated>2020-06-03T17:52:50-07:00</updated><id>http://localhost:4000/jekyll/update/2020/06/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/03/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-03T19:08:04-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ben Leistiko</title><subtitle>Ben Leistiko portfolio and resume website.  Cal Poly SLO, Mehcanical Engineering, SAE Baja Competition, Machinist, CNC Programmer.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/06/03/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-06-03T17:52:50-07:00</published><updated>2020-06-03T17:52:50-07:00</updated><id>http://localhost:4000/jekyll/update/2020/06/03/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/03/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
@@ -16,56 +16,79 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Resume</title><link href="http://localhost:4000/jekyll/update/2020/06/03/Resume.html" rel="alternate" type="text/html" title="Resume" /><published>2020-06-03T17:52:50-07:00</published><updated>2020-06-03T17:52:50-07:00</updated><id>http://localhost:4000/jekyll/update/2020/06/03/Resume</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/03/Resume.html">&lt;p&gt;ACADEMICS
-California Polytechnic State University - San Luis Obispo	San Luis Obispo, CA
-BS Candidate, Mechanical Engineering, June 2023	9/2019 - Present
-GPA: 4.0/4.0  -  Statics, mechanics of materials, CAD, Honors Calculus, Physics
-Homestead High School	Cupertino, CA
-Graduated	8/2015 - 6/2019
-AP BC Calculus (5), AP Physics (5), AP Computer Science (5)&lt;/p&gt;
-
-&lt;p&gt;EXPERIENCE
-Cal Poly Racing 	San Luis Obispo, CA
-Member	9/2019 - Present
-Designed fixtures using Fusion 360 to allow precision parts to be milled and welded
-Programmed and operated a Haas CNC mill to manufacture precision parts in both aluminum and steel
-Designed and manufactured elements of the powertrain system for the 2020 Baja vehicle
-GMW Associates 	San Carlos, CA
-Engineering Assistant	6/2019-9/2019
-Created 2D drawings of magnet assemblies using AutoCAD
-Turned 3-D CAD files into 2D CAD drawings using a variety of CAD programs
-Updated drawings that are included in many of GMW’s most popular magnets to better inform consumers of how to set up and operate magnets
-Created standards across drawings to unify the style in which magnet info is presented in  GMW manuals
-Evil Mad Science 	Sunnyvale, CA
-Mechanical Design Intern	6/2018 - 8/2018
-Developed and presented ideas to improve the design of the z-stage of a cnc pen plotter
-Programmed microcontrollers and built circuits to perform fully instrumented tests on digital servo
-Worked extensively with an oscilloscope to take measurements for testing new kinds servos
-Operated a Haas CNC mill to make parts for the company to sell
-Homestead Robotics	Cupertino, CA
-Officer - Engineering Lead	5/2018 - 6/2019
-Officer - Fabrication	5/2017 - 5/2018
-Member - Mechanical Engineering Team	8/2015 - 6/2019
-Collaborated to design and build a 120 pound robot in six weeks during the 2016 - 2019 seasons
-2019: Lead designer and manufacturer of a three axis arm with a dual purposed pneumatically controlled claw
-2018: Lead designer  of a two stage elevator used to lift cubes 8 feet into the air and to deploy a climbing hook
-2017: Lead designer of a sub-assembly that allowed the robot to climb up a five foot long rope
-Held design and fabrication seminars to teach members new skills in order to better compete as a team&lt;/p&gt;
-
-&lt;p&gt;SKILLS
-CNC Milling and CAM Work
-Trained to use Haas CNC mills (certified at Cal Poly SLO machine shops)
-3 years of experience with HSMXpress CAM (through Fusion 360) to turn CAD models into 2, 2.5, or 3D toolpaths for both a CNC mill and CNC router
-Assembled a Carbide 3D Shapeoko 3 kit (6/2017)
-Designed and manufactured countless parts using CNC equipment for CP Racing, CP Hyperloop, 
-HHS Robotics, and personal interest projects
-3D-Printing
-Built a RepRap style 3D-printer that runs Marlin firmware 
-Can turn 3D models into G-Code and print them using repetier host and slic3r
-CAD
-Proficient at using Fusion 360, AutoCAD,  SolidWorks, and Sketchup
-Office Productivity Software
-Proficient with all standard functions of Word/Excel and Google equivalents including inserting graphs, inputting data, and using functions/equations
-Experience in data entry from GMW internship
-Fabrication
-Extensive experience with a CNC mill, 3D-printer, manual mill, lathe, sheet metal bending tools, drill press, etc.&lt;/p&gt;</content><author><name></name></author><summary type="html">ACADEMICS California Polytechnic State University - San Luis Obispo San Luis Obispo, CA BS Candidate, Mechanical Engineering, June 2023 9/2019 - Present GPA: 4.0/4.0 - Statics, mechanics of materials, CAD, Honors Calculus, Physics Homestead High School Cupertino, CA Graduated 8/2015 - 6/2019 AP BC Calculus (5), AP Physics (5), AP Computer Science (5)</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Resume</title><link href="http://localhost:4000/jekyll/update/2020/06/03/Resume.html" rel="alternate" type="text/html" title="Resume" /><published>2020-06-03T17:52:50-07:00</published><updated>2020-06-03T17:52:50-07:00</updated><id>http://localhost:4000/jekyll/update/2020/06/03/Resume</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/06/03/Resume.html">&lt;h3 style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;Ben Leistiko&lt;/strong&gt;&lt;/h3&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;ben.leistiko@gmail.com ▪ Cell: (408) 420-7125 ▪ &lt;/span&gt;&lt;a href=&quot;https://www.linkedin.com/in/benleistiko/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;https://www.linkedin.com/in/benleistiko/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ACADEMICS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;California Polytechnic State University - San Luis Obispo&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;San Luis Obispo, CA&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;BS Candidate, Mechanical Engineering, June 2023&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;9/2019 - Present&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;GPA: 4.0/4.0&amp;nbsp; -&amp;nbsp; Statics, mechanics of materials, CAD, Honors Calculus, Physics&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Homestead High School&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;Cupertino, CA&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Graduated&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;8/2015 - 6/2019&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;AP BC Calculus (5), AP Physics (5), AP Computer Science (5)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;EXPERIENCE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Cal Poly Racing&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;San Luis Obispo, CA&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Member&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;9/2019 - Present&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designed fixtures using Fusion 360 to allow precision parts to be milled and welded&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Programmed and operated a Haas CNC mill to manufacture precision parts in both aluminum and steel&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designed and manufactured elements of the powertrain system for the 2020 Baja vehicle&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;GMW Associates&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;San Carlos, CA&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Engineering Assistant&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;6/2019-9/2019&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Created 2D drawings of magnet assemblies using AutoCAD&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Turned 3-D CAD files into 2D CAD drawings using a variety of CAD programs&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Updated drawings that are included in many of GMW&amp;rsquo;s most popular magnets to better inform consumers of how to set up and operate magnets&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Created standards across drawings to unify the style in which magnet info is presented in&amp;nbsp; GMW manuals&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Evil Mad Science&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;Sunnyvale, CA&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mechanical Design Intern&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;6/2018 - 8/2018&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Developed and presented ideas to improve the design of the z-stage of a cnc pen plotter&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Programmed microcontrollers and built circuits to perform fully instrumented tests on digital servo&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Worked extensively with an oscilloscope to take measurements for testing new kinds servos&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Operated a Haas CNC mill to make parts for the company to sell&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Homestead Robotics&lt;/span&gt; &lt;span style=&quot;font-weight: 400;&quot;&gt;Cupertino, CA&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Officer - Engineering Lead&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5/2018 - 6/2019&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Officer - Fabrication&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;5/2017 - 5/2018&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Member - Mechanical Engineering Team&lt;/span&gt;&lt;/em&gt; &lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;8/2015 - 6/2019&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Collaborated to design and build a 120 pound robot in six weeks during the 2016 - 2019 seasons&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2019: Lead designer and manufacturer of a three axis arm with a dual purposed pneumatically controlled claw&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2018: Lead designer&amp;nbsp; of a two stage elevator used to lift cubes 8 feet into the air and to deploy a climbing hook&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;2017: Lead designer of a sub-assembly that allowed the robot to climb up a five foot long rope&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Held design and fabrication seminars to teach members new skills in order to better compete as a team&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;SKILLS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;CNC Milling and CAM Work&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Trained to use Haas CNC mills (certified at Cal Poly SLO machine shops)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3 years of experience with HSMXpress CAM (through Fusion 360) to turn CAD models into 2, 2.5, or 3D toolpaths for both a CNC mill and CNC router&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Assembled a Carbide 3D Shapeoko 3 kit (6/2017)&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Designed and manufactured countless parts using CNC equipment for CP Racing, CP Hyperloop,&amp;nbsp;&lt;/span&gt;HHS Robotics, and personal interest projects&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;3D-Printing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Built a RepRap style 3D-printer that runs Marlin firmware&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Can turn 3D models into G-Code and print them using repetier host and slic3r&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;CAD&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient at using Fusion 360, AutoCAD,&amp;nbsp; SolidWorks, and Sketchup&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Office Productivity Software&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Proficient with all standard functions of Word/Excel and Google equivalents including inserting graphs, inputting data, and using functions/equations&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Experience in data entry from GMW internship&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Fabrication&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Extensive experience with a CNC mill, 3D-printer, manual mill, lathe, sheet metal bending tools, drill press, etc.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Ben Leistiko ben.leistiko@gmail.com ▪ Cell: (408) 420-7125 ▪ https://www.linkedin.com/in/benleistiko/ ACADEMICS California Polytechnic State University - San Luis Obispo San Luis Obispo, CA BS Candidate, Mechanical Engineering, June 2023 9/2019 - Present GPA: 4.0/4.0&amp;nbsp; -&amp;nbsp; Statics, mechanics of materials, CAD, Honors Calculus, Physics Homestead High School Cupertino, CA Graduated 8/2015 - 6/2019 AP BC Calculus (5), AP Physics (5), AP Computer Science (5) EXPERIENCE Cal Poly Racing San Luis Obispo, CA Member 9/2019 - Present Designed fixtures using Fusion 360 to allow precision parts to be milled and welded Programmed and operated a Haas CNC mill to manufacture precision parts in both aluminum and steel Designed and manufactured elements of the powertrain system for the 2020 Baja vehicle GMW Associates San Carlos, CA Engineering Assistant 6/2019-9/2019 Created 2D drawings of magnet assemblies using AutoCAD Turned 3-D CAD files into 2D CAD drawings using a variety of CAD programs Updated drawings that are included in many of GMW&amp;rsquo;s most popular magnets to better inform consumers of how to set up and operate magnets Created standards across drawings to unify the style in which magnet info is presented in&amp;nbsp; GMW manuals Evil Mad Science Sunnyvale, CA Mechanical Design Intern 6/2018 - 8/2018 Developed and presented ideas to improve the design of the z-stage of a cnc pen plotter Programmed microcontrollers and built circuits to perform fully instrumented tests on digital servo Worked extensively with an oscilloscope to take measurements for testing new kinds servos Operated a Haas CNC mill to make parts for the company to sell Homestead Robotics Cupertino, CA Officer - Engineering Lead 5/2018 - 6/2019 Officer - Fabrication 5/2017 - 5/2018 Member - Mechanical Engineering Team 8/2015 - 6/2019 Collaborated to design and build a 120 pound robot in six weeks during the 2016 - 2019 seasons 2019: Lead designer and manufacturer of a three axis arm with a dual purposed pneumatically controlled claw 2018: Lead designer&amp;nbsp; of a two stage elevator used to lift cubes 8 feet into the air and to deploy a climbing hook 2017: Lead designer of a sub-assembly that allowed the robot to climb up a five foot long rope Held design and fabrication seminars to teach members new skills in order to better compete as a team SKILLS CNC Milling and CAM Work Trained to use Haas CNC mills (certified at Cal Poly SLO machine shops) 3 years of experience with HSMXpress CAM (through Fusion 360) to turn CAD models into 2, 2.5, or 3D toolpaths for both a CNC mill and CNC router Assembled a Carbide 3D Shapeoko 3 kit (6/2017) Designed and manufactured countless parts using CNC equipment for CP Racing, CP Hyperloop,&amp;nbsp;HHS Robotics, and personal interest projects 3D-Printing Built a RepRap style 3D-printer that runs Marlin firmware&amp;nbsp; Can turn 3D models into G-Code and print them using repetier host and slic3r CAD Proficient at using Fusion 360, AutoCAD,&amp;nbsp; SolidWorks, and Sketchup Office Productivity Software Proficient with all standard functions of Word/Excel and Google equivalents including inserting graphs, inputting data, and using functions/equations Experience in data entry from GMW internship Fabrication Extensive experience with a CNC mill, 3D-printer, manual mill, lathe, sheet metal bending tools, drill press, etc.</summary></entry></feed>
