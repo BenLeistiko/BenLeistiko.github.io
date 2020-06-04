@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Resume"
+date:   2020-06-03 17:52:50 -0700
+categories: jekyll update
+---
+ACADEMICS
+California Polytechnic State University - San Luis Obispo	San Luis Obispo, CA
+BS Candidate, Mechanical Engineering, June 2023	9/2019 - Present
+GPA: 4.0/4.0  -  Statics, mechanics of materials, CAD, Honors Calculus, Physics
+Homestead High School	Cupertino, CA
+Graduated	8/2015 - 6/2019
+AP BC Calculus (5), AP Physics (5), AP Computer Science (5)
+
+EXPERIENCE
+Cal Poly Racing 	San Luis Obispo, CA
+Member	9/2019 - Present
+Designed fixtures using Fusion 360 to allow precision parts to be milled and welded
+Programmed and operated a Haas CNC mill to manufacture precision parts in both aluminum and steel
+Designed and manufactured elements of the powertrain system for the 2020 Baja vehicle
+GMW Associates 	San Carlos, CA
+Engineering Assistant	6/2019-9/2019
+Created 2D drawings of magnet assemblies using AutoCAD
+Turned 3-D CAD files into 2D CAD drawings using a variety of CAD programs
+Updated drawings that are included in many of GMW’s most popular magnets to better inform consumers of how to set up and operate magnets
+Created standards across drawings to unify the style in which magnet info is presented in  GMW manuals
+Evil Mad Science 	Sunnyvale, CA
+Mechanical Design Intern	6/2018 - 8/2018
+Developed and presented ideas to improve the design of the z-stage of a cnc pen plotter
+Programmed microcontrollers and built circuits to perform fully instrumented tests on digital servo
+Worked extensively with an oscilloscope to take measurements for testing new kinds servos
+Operated a Haas CNC mill to make parts for the company to sell
+Homestead Robotics	Cupertino, CA
+Officer - Engineering Lead	5/2018 - 6/2019
+Officer - Fabrication	5/2017 - 5/2018
+Member - Mechanical Engineering Team	8/2015 - 6/2019
+Collaborated to design and build a 120 pound robot in six weeks during the 2016 - 2019 seasons
+2019: Lead designer and manufacturer of a three axis arm with a dual purposed pneumatically controlled claw
+2018: Lead designer  of a two stage elevator used to lift cubes 8 feet into the air and to deploy a climbing hook
+2017: Lead designer of a sub-assembly that allowed the robot to climb up a five foot long rope
+Held design and fabrication seminars to teach members new skills in order to better compete as a team
+
+SKILLS
+CNC Milling and CAM Work
+Trained to use Haas CNC mills (certified at Cal Poly SLO machine shops)
+3 years of experience with HSMXpress CAM (through Fusion 360) to turn CAD models into 2, 2.5, or 3D toolpaths for both a CNC mill and CNC router
+Assembled a Carbide 3D Shapeoko 3 kit (6/2017)
+Designed and manufactured countless parts using CNC equipment for CP Racing, CP Hyperloop, 
+HHS Robotics, and personal interest projects
+3D-Printing
+Built a RepRap style 3D-printer that runs Marlin firmware 
+Can turn 3D models into G-Code and print them using repetier host and slic3r
+CAD
+Proficient at using Fusion 360, AutoCAD,  SolidWorks, and Sketchup
+Office Productivity Software
+Proficient with all standard functions of Word/Excel and Google equivalents including inserting graphs, inputting data, and using functions/equations
+Experience in data entry from GMW internship
+Fabrication
+Extensive experience with a CNC mill, 3D-printer, manual mill, lathe, sheet metal bending tools, drill press, etc.
